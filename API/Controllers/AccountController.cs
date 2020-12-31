@@ -7,7 +7,6 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Security.Cryptography;
 using System.Text;
-using API.Data;
 using API.DTOs;
 using Microsoft.EntityFrameworkCore;
 
