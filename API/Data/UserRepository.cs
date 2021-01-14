@@ -7,7 +7,7 @@ using API.Entities;
 using API.Interfaces;
 using Microsoft.EntityFrameworkCore;
 using AutoMapper;
-using AutoMapper.QueryableExtensions;
+using AutoMapper.QueryableExtensions; 
 using API.Helpers;
 namespace API.Data
 {
