@@ -6,3 +6,6 @@ img{
     border: 2px solid #fff;
     display: inline;
 }
+.navbar{
+    background-color:rgb(124, 61, 182) !important;
+}
