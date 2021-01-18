@@ -25,7 +25,7 @@ export class AppComponent implements OnInit {
       this.accountService.setCurrentUser(user);
       this.presence.createHubConnection(user);
     }
-    this.accountService.setCurrentUser(user);
+    //  this.accountService.setCurrentUser(user);
   }
 
 }
