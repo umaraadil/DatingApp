@@ -1,23 +1,5 @@
 [
-    {
-      "UserName": "Fran",
-      "Gender": "female",
-      "DateOfBirth": "1963-09-30",
-      "KnownAs": "Fran",
-      "Created": "2019-10-22",
-      "LastActive": "2020-06-20",
-      "Introduction": "Lorem reprehenderit tempor nulla ullamco magna ex commodo eiusmod duis elit laboris consequat nisi ut. Tempor eiusmod eu tempor deserunt occaecat nostrud pariatur et elit proident. Quis enim pariatur exercitation minim ut.\r\n",
-      "LookingFor": "Esse adipisicing sunt qui aliquip dolor exercitation do aliqua occaecat qui non in exercitation. Dolore veniam quis excepteur culpa tempor. Anim aute irure dolor non nostrud ad. Ullamco laborum Lorem aliqua in velit.\r\n",
-      "Interests": "Ex nulla consequat incididunt do officia labore magna ipsum eu.",
-      "City": "Blackgum",
-      "Country": "Ghana",
-      "Photos": [
-        {
-          "Url": "https://randomuser.me/api/portraits/women/43.jpg",
-          "IsMain": true
-        }
-      ]
-    },
+ 
     {
       "UserName": "Sherry",
       "Gender": "female",
@@ -169,24 +151,5 @@
               "IsMain": true
             }
           ]
-        },
-        {
-          "UserName": "Hobbs",
-          "Gender": "male",
-          "DateOfBirth": "1997-01-24",
-          "KnownAs": "Hobbs",
-          "Created": "2019-07-03",
-          "LastActive": "2020-06-06",
-          "Introduction": "Eu fugiat amet mollit minim cillum magna nostrud cupidatat consequat sit proident. Laborum adipisicing excepteur Lorem pariatur irure minim aute. Tempor consectetur mollit non cillum sit consectetur consequat nostrud excepteur do non non aliquip quis. Deserunt cupidatat mollit consectetur labore ut Lorem dolore proident eiusmod. Reprehenderit elit officia aliquip ex fugiat consequat nisi incididunt proident dolore occaecat.\r\n",
-          "LookingFor": "Ipsum sunt dolor esse enim laborum culpa in minim nulla commodo id reprehenderit irure irure. Proident ad velit tempor ullamco veniam adipisicing velit Lorem exercitation laborum est eiusmod dolor. Ipsum labore mollit nulla sunt. Laboris consequat sint consequat occaecat commodo minim velit ad deserunt qui occaecat aute sunt. Tempor exercitation reprehenderit magna sit nisi labore consequat cillum non irure occaecat. Id adipisicing aliquip ullamco excepteur tempor laboris cupidatat aliquip enim minim irure ea consectetur. Incididunt veniam nostrud esse magna magna dolor ad minim reprehenderit sit eu excepteur proident laborum.\r\n",
-          "Interests": "Tempor duis laboris laborum irure.",
-          "City": "Blackgum",
-          "Country": "Mexico",
-          "Photos": [
-            {
-              "Url": "https://randomuser.me/api/portraits/men/58.jpg",
-              "IsMain": true
-            }
-          ]
-        }
+        }        
   ]
